@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\smartp\smartp\bin\Debug\net6.0\smartp.exe
+C:\Users\ASUS\source\repos\smartp\smartp\bin\Debug\net6.0\smartp.deps.json
+C:\Users\ASUS\source\repos\smartp\smartp\bin\Debug\net6.0\smartp.runtimeconfig.json
+C:\Users\ASUS\source\repos\smartp\smartp\bin\Debug\net6.0\smartp.dll
+C:\Users\ASUS\source\repos\smartp\smartp\bin\Debug\net6.0\smartp.pdb
+C:\Users\ASUS\source\repos\smartp\smartp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\smartp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\smartp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\smartp.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\smartp.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\smartp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\smartp.csproj.Up2Date
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\smartp.dll
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\refint\smartp.dll
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\smartp.pdb
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\smartp.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\smartp\smartp\obj\Debug\net6.0\ref\smartp.dll
